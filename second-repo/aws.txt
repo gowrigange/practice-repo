@@ -1,0 +1,4 @@
+this is aws.txt file
+
+created on 2nd-repository
+
